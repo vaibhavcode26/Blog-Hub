@@ -1,6 +1,7 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the Blog Website inspired from " medium " . You can create your personal account and upload blogs with photos and paragraphs
+Tech Stack :- Html , CSS , Javascript , React , Redux Toolkit , Tailwind Css , Appwrite 
 
 Currently, two official plugins are available:
 
